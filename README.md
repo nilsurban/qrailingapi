@@ -2,7 +2,7 @@
 
 ## Description
 
-ToDo application
+ToDo application backend
 
 ## Setup
   ### 1. Create .env file in project directory
